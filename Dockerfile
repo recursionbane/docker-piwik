@@ -1,5 +1,5 @@
 FROM php:5.6-apache
-MAINTAINER Benjamin Hutchins <ben@hutchins.co>
+MAINTAINER RB
 
 ENV PIWIK_VERSION 2.14.3
 
